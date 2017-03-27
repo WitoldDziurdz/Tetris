@@ -1,0 +1,12 @@
+sazsa
+10000
+dima
+5000
+dawid
+4000
+kasia
+3000
+tomek
+2000
+wojtek
+1000

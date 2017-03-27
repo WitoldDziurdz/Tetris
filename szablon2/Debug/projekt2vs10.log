@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (projekt2vs15.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+sdl2main.lib(SDL_windows_main.obj) : warning LNK4217: locally defined symbol _fprintf imported in function _ShowError
+main.obj : error LNK2019: unresolved external symbol __imp___invalid_parameter referenced in function "void * __cdecl std::_Allocate(unsigned int,unsigned int,bool)" (?_Allocate@std@@YAPAXII_N@Z)
+main.obj : error LNK2019: unresolved external symbol __imp___CrtDbgReportW referenced in function "void * __cdecl std::_Allocate(unsigned int,unsigned int,bool)" (?_Allocate@std@@YAPAXII_N@Z)
+sdl2main.lib(SDL_windows_main.obj) : error LNK2019: unresolved external symbol __imp____iob_func referenced in function _ShowError
+D:\Tetris\szablon2\Debug\projekt2vs10.exe : fatal error LNK1120: 3 unresolved externals

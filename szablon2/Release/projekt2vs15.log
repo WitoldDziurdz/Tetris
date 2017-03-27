@@ -1,0 +1,73 @@
+﻿  main.cpp
+main.cpp(85): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(86): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(87): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(88): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(89): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(98): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(99): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(100): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(101): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(102): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(111): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(112): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(113): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(114): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(115): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(116): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(125): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(126): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(127): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(128): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(129): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(130): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(139): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(140): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(141): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(142): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(143): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(144): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(153): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(154): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(383): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+main.cpp(518): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+main.cpp(689): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(690): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(621): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+main.cpp(623): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+main.cpp(625): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+main.cpp(640): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+main.cpp(642): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+main.cpp(646): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+main.cpp(648): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Generating code
+  21 of 29 functions (72.4%) were compiled, the rest were copied from previous compilation.
+    18 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  projekt2vs15.vcxproj -> D:\Tetris\Release\projekt2vs15.exe
+  projekt2vs15.vcxproj -> D:\Tetris\Release\projekt2vs15.pdb (Full PDB)
+  D:\Tetris\szablon2\sdl\winlib15\concrt140.dll
+  D:\Tetris\szablon2\sdl\winlib15\SDL2.dll
+  D:\Tetris\szablon2\sdl\winlib15\vccorlib140.dll
+  D:\Tetris\szablon2\sdl\winlib15\vcruntime140.dll
+          4 file(s) copied.
+  D:\Tetris\szablon2\blekitny.bmp
+  D:\Tetris\szablon2\brazowy.bmp
+  D:\Tetris\szablon2\cs8x8.bmp
+  D:\Tetris\szablon2\czerwony.bmp
+  D:\Tetris\szablon2\eti.bmp
+  D:\Tetris\szablon2\fioletowy.bmp
+  D:\Tetris\szablon2\pomoranczowy.bmp
+  D:\Tetris\szablon2\szary.bmp
+  D:\Tetris\szablon2\zielony.bmp
+  D:\Tetris\szablon2\zulty.bmp
+         10 file(s) copied.
